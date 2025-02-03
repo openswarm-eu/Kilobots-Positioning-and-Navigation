@@ -4,6 +4,6 @@ This repository provides an example of using the Augmented Reality for Kilobots 
 
 The repository provides:
 
-1. The ARK experiment which uses ARK's tracking functionalities to create a grid-based positioning system and periodically send IR message to the Kilobots on the arena to provide positioning information. For getting started with ARK please visit [link](https://www.giovannireina.com/kilowiki/index.php?title=Getting_started_on_ARK).0
+1. The ARK experiment which uses ARK's tracking functionalities to create a grid-based positioning system and periodically send IR message to the Kilobots on the arena to provide positioning information. For getting started with ARK please visit [link](https://www.giovannireina.com/kilowiki/index.php?title=Getting_started_on_ARK).
 
 2. The .c code that is compiled and uploaded on the Kilobot to parse the positioning information received from the ARK system and use it to navigate between to locations of interest. To compile the provided Kilobot code please visit [link](https://www.giovannireina.com/kilowiki/index.php?title=Getting_Started:_How_to_work_with_kilobots).
